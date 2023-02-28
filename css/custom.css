@@ -1,0 +1,237 @@
+/* CUSTOM CSS */
+
+.nopadding {
+    padding: 0px !important;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+    cursor: pointer;
+    text-transform: none !important;
+    text-decoration: none !important;
+    font-size: 12px;
+    list-style: none !important;
+}
+
+.bluetext {
+    color: #2a2da2 !important;
+}
+
+.bg-bluetext {
+    background-color: #2a2da2 !important;
+}
+
+.p_lineheight {
+    line-height: 1 !important;
+}
+
+.p_12 {
+    font-size: 10px;
+    text-transform: initial;
+    letter-spacing: 0;
+}
+
+.p_14 {
+    font-size: 13px;
+    text-transform: initial;
+    letter-spacing: 0;
+}
+
+.p_50 {
+    font-size: 50px;
+}
+
+.p_70 {
+    font-size: 70px;
+}
+
+.split-text__line li{
+    color: #888888;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+    font-size: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.shipyardtable img {
+    object-fit: cover;
+    width: 100%;
+    height: 60px;
+}
+
+.figureteam img {
+    object-fit: cover;
+    width: 300px;
+    height: 450px;
+}
+
+.swiper-slide img {
+    object-fit: cover;
+    width: 720px;
+    height: 420px;
+}
+
+.section-video {
+    object-fit: cover;
+    width: 350px;
+    height: 100px;
+}
+
+.logo__text-title img {
+    object-fit: cover;
+    width: 250px;
+    height: 100px;
+}
+
+footer .logo__text-title img {
+    object-fit: cover;
+    width: 150px;
+    height: 63px;
+}
+
+.section-masthead__heading,
+.section-masthead__text,
+.swiper-slide-active {
+    color: #fff !important;
+}
+
+.bluetext2 {
+    color: #34c9fa;
+    font-family: 'Playfair Display';
+}
+
+.link-arrow__label  {
+    color: #34c9fa;
+}
+
+.split-text h4,
+.split-text h5 {
+    color: #2526a9;
+}
+
+.split-text p , .figure-member__position {
+    color:#888888;
+}
+
+.section__headline,
+.section-cta__line {
+    background-color: #2526a9;
+}
+
+.slider__arrow:hover {
+    color: #fff !important;
+}
+
+.section-video__icon:hover ,
+.section-video__icon:active ,
+ .menu a:hover {
+    color: #34c9fa !important;
+}
+
+.section-video__icon svg .circle {
+    stroke: #34c9fa;
+}
+
+.menu a , .specialfont {
+    font-family: 'Playfair Display' !important ;
+}
+
+.menu a::before   {
+    background-color: #34c9fa !important ;
+}
+
+.button_solid.button_accent-secondary-2 {
+    background-color:  #2526a9;
+    border-color: #2526a9;
+}
+
+.bg-accent-primary-1 {
+    background-color: #2526a9;
+}
+
+.logo {
+    color: #2526a9;
+}
+
+.input-float__input_focused {
+    border-color:#34c9fa ;
+}
+
+.input-float__input_focused + .input-float__label {
+    color: #34c9fa;
+}
+
+.bottom-align-text {
+    bottom: 0;
+}
+
+.button_solid.button_accent-secondary-2:hover {
+    border-color: #fff;
+    background-color: #fff;
+    color: #2526a9;
+}
+
+.bg-accent-secondary-4 , .figure-member__line {
+    background-color: #2526a9;
+}
+
+.social__item a , .figure-portfolio__category {
+    color: #fff;
+}
+
+.widget ul li a:hover , .social__item a:hover {
+    color: #34c9fa;
+}
+
+.section-slider.bg-accent-secondary-3 .slider__counter_current {
+    color: #34c9fa;
+}
+
+.header_color-white:not(.header_sticky) .logo__text > img  {
+    background-color: #000 !important;
+}
+
+.homenews img {
+    object-fit: cover;
+    width: 550px;
+    height: 350px;
+}
+
+.menu .sub-menu > li a:hover {
+    border-color: #34c9fa;
+}
+
+
+  .header_color-white:not(.header_sticky) .logo__text {
+    background-image: url("../img/content/oceanimperialw.svg") !important;
+    background-size:cover;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+  }
+  .header_color-white:not(.header_sticky)  .logo__text img{
+   display:none;
+  }
+
+ .vessel .figure-portfolio__content {
+    padding: 10px;
+  }
+
+  .header__wrapper-overlay-menu.bg-white .menu-overlay li a {
+      color:#2526a9 ;
+  }
